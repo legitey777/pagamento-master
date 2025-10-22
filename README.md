@@ -150,13 +150,3 @@ $retorno->getHeader();
 $retorno->getTrailer();
 ```
 
-
-## Autores
-
-* **Murilo Sandiego** - *Initial work* - [murilosandiego](https://github.com/murilosandiego)
-* **Silas Ribas** - *Commiter* - [silasrm](https://github.com/silasrm)
-
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.md](LICENSE.md) para obter detalhes
