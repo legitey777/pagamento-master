@@ -14,19 +14,6 @@ Banco | Transferências entre contas | Pagamento de Títulos de Cobrança | P
 
 **\:eight_pointed_black_star: necessita de homologação**
 
-## Instalação
-Via composer:
-
-```
-composer require murilosandiego/pagamento:dev-master
-```
-
-Ou adicione manualmente ao seu composer.json:
-
-```
-"murilosandiego/pagamento": "dev-master"
-```
-
 ## Remessa
 
 ### Gerar Pagamento
